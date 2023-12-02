@@ -1,0 +1,10 @@
+{
+  "tag_name": "1.0.0",
+  "name": "testing",
+  "remotes": [
+    {
+      "url": "https://github.com/octokit/octokit.js",
+      "typename": "gitRemote"
+    }
+  ]
+}
