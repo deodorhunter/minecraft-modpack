@@ -3,8 +3,9 @@
   "name": "testing",
   "remotes": [
     {
-      "url": "https://github.com/octokit/octokit.js",
-      "typename": "gitRemote"
+      "url": "https://github.com/deodorhunter/minecraft-modpack",
+      "typename": "gitRemote",
+      "lastChecked": "2023-06-12T11:25:51+02:00"
     }
   ]
 }
